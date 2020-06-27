@@ -8,8 +8,8 @@ A* Search algorithms, unlike other traversal techniques, it has “brains”. Wh
 And it is also worth mentioning that many games and web-based maps use this algorithm to find the shortest path very efficiently (approximation).
 
 # Formula
-f(n) = g(n) + h(n)
+## f(n) = g(n) + h(n)
 
 
 
-# Demo
+# Demo - https://astar-algorithm.netlify.app/
